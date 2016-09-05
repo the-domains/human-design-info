@@ -1,0 +1,14 @@
+name: Human Design Info
+layout_spectrum: 0.18981152446038574
+typography_spectrum: 0.6318645268297319
+color:
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  brandStrength: 0.09162165063895389
+  lightness: 0.9381187797186458
+  saturation: 0.9569929690069792
+  rhythmicContrast: 0.7912926456541796
